@@ -1,5 +1,8 @@
-### Hi there 👋
-
+### Hi there! 👋
+### 🌱 I’m currently learning linux and web development + powershell scripting.
+### 🔭 My two current projects are:
+* [My website](https://hndres.com)
+* [windows-apps](https://github.com/andresda25/windows-apps)
 <!--
 **andresda25/andresda25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
